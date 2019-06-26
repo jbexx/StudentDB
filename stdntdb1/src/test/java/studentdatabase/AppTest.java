@@ -1,4 +1,4 @@
-package stdntdb1;
+package studentdatabase;
 
 import org.junit.Test;
 
